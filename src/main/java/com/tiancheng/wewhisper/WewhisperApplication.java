@@ -1,0 +1,12 @@
+package com.tiancheng.wewhisper;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WewhisperApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WewhisperApplication.class, args);
+	}
+}
